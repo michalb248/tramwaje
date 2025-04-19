@@ -2,3 +2,7 @@ jupyter
 networkx
 matplotlib
 scipy
+tqdm
+seaborn
+numpy
+ipykernel
